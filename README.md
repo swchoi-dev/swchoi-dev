@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/swchoi-dev"
     width="600"
-    height="100"
+    height="300"
   />
 </a>
   
